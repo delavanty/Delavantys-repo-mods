@@ -1,3 +1,2 @@
-000-DeluxeGold_P.pak$Deluxe Gold$v1.1b$Textures and color enhanced for gold. Dont use Gold Ore with this mod read mod info
-000-GoldResembled_P.pak$Gold Ore$v1.0$Textures and color enhanced for only gold ore. Dont use Deluxe Gold with this mod read mod info
-
+000-DeluxeGold_P.pak$Deluxe Gold$Textures and color enhanced for gold. Don't use w/ Deluxe Gold Ore. $1.1.2
+000-GoldResembled_P.pak$Deluxe Gold Ore$Textures and color enhanced for only gold ore. Don't use w/ Deluxe Gold$1.0.0
