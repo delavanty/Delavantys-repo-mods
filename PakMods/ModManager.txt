@@ -1,2 +1,2 @@
-000-DeluxeGold_P.pak$Deluxe Gold$Textures and color enhanced for gold. Don't use w/ Deluxe Gold Ore. $1.1.4
-000-GoldResembled_P.pak$Deluxe Gold Ore$Textures and color enhanced for only gold ore. Don't use w/ Deluxe Gold$1.0.0
+000-DeluxeGold_P.pak$Deluxe Gold$Textures and color enhanced for gold.it is broken at the moment with ore. so use deluxe gold ore for now. $1.1.4
+000-GoldResembled_P.pak$Deluxe Gold Ore$Textures and color enhanced for only gold ore.ignore..Don't use w/ Deluxe Gold$1.0.0
