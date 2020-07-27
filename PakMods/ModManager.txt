@@ -1,3 +1,3 @@
-001-DeluxeGold_P.pak$Deluxe Gold$Textures and color enhanced for gold.it is broken at the moment with ore. so use deluxe gold ore for now. $1.1.7
+001-DeluxeGold_P.pak$Deluxe Gold$Textures and color enhanced for gold.it is broken at the moment with ore. so use deluxe gold ore for now. $1.1.8
 000-GoldResembled_P.pak$Deluxe Gold Ore$Textures and color enhanced for only gold ore.ignore..Don't use w/ Deluxe Gold$1.0.0
 000-NesorGold_P.pak$EyeSoOre$ Texture makes the gold nyon yello so u can see it in the nigh used to overwrite Delux Gold$1.0.0
